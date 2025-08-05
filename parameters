@@ -1,7 +1,7 @@
 [PARAMETER FILE for CellCoal] [text in brackets will be ignored]
 
 [MULTITHREADS]
-    [number of threads] -10
+    [number of threads] -4
 
 [COALESCENT]
 	[(modified) first number: number of replicates;
