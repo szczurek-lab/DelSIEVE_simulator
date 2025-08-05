@@ -19,7 +19,7 @@ The built executable is located: `build/bin/DelSIEVE_simulator`.
 To run DelSIEVE_simulator, use the example configuration file `parameters`:
 
 ```bash
-$ ./build/bin/SIEVE_simulator -Fparameters
+$ ./build/bin/DelSIEVE_simulator -Fparameters
 ```
 
 ## Configuration files
