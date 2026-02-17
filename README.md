@@ -26,3 +26,11 @@ $ ./build/bin/DelSIEVE_simulator -Fparameters
 
 DelSIEVE_simulator uses a similar input as CellCoal does. Please refer to the manuals of CellCoal. Those configuration files used in the DelSIEVE paper can be found in the [DelSIEVE_benchmark_pipeline](https://github.com/szczurek-lab/DelSIEVE_benchmark_pipeline) repository, under directory `simulation_configs`.
 
+
+
+## Funding
+
+This project received support from
+- the Polish National Science Centre SONATA BIS grant No. 2020/38/E/NZ2/00305,
+- European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No. 766030, as well as
+- European Research Council (ERC-617457-PHYLOCANCER), the Spanish Ministry of Science and Innovation (PID2019-106247GB-I00), and Xunta de Galicia.
